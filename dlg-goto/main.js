@@ -1,7 +1,7 @@
 /*exported $dlgGoto*/
 var $dlgGoto = (function(){    
   var DOM=''      
-    +'<div class="notepad-goto-dlg">'
+    +'<div class="notepad-dlg notepad-goto-dlg">'
     +'  <div class="dialogbox">'
     +'    <div class="titlebar">'
     +'      <p class="title">转到指定行</p>'
